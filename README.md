@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://ygabdn29.github.io/Product-preview-card-component-solution/)
 
 ## My process
 
