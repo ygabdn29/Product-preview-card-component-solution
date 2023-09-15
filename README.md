@@ -31,20 +31,19 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
 - Live Site URL: (https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
-- HTMl5
+- HTML5
 - Flexbox
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/) - Useful when I want to check on some tag, syntax, or property.
-- [Example resource 2](https://stackoverflow.com/) - I use this a lot to get references if I'm stuck on something.
+- [MDN](https://developer.mozilla.org/en-US/) - Useful when I want to check on some tag, syntax, or property.
+- [Stackoverflow](https://stackoverflow.com/) - I use this a lot to get references if I'm stuck on something.
 
 ## Author
 
