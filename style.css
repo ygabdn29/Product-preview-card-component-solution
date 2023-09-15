@@ -18,7 +18,15 @@ html {
 }
 
 body {
+  height: 100%;
   background-color: hsl(30, 38%, 92%);
+}
+
+.page-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .container {
